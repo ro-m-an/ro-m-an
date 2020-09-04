@@ -1,7 +1,7 @@
 ### Hey.
 I'm a self taught developer and have been coding since 2012.
 I've been active on GitHub on a different alias since 2014.
-My project right now is [robin.exchange.](https://robin.exchange/), a stock & crypto trading simulator.
+My project right now is [robin.exchange,](https://robin.exchange/) a stock & crypto trading simulator.
 
 ![GitHub followers](https://img.shields.io/github/followers/ro-m-an?style=social)
 ![Discord](https://img.shields.io/discord/751469608615280670)
