@@ -8,20 +8,21 @@ My project right now is [robin.exchange,](https://robin.exchange/) a stock & cry
 [![Join Robin](https://img.shields.io/badge/join-robin-orange)](https://robin.exchange/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ro-m-an&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ro-m-an&show_icons=true&include_all_commits=true&theme=dark"/>
 </a>
 
 ##### Most Coded Languages
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ro-m-an&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ro-m-an&layout=compact&theme=dark" />
 </a>
 
 ##### robin.exchange
-<!--
-<a href="REPO">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ro-m-an&repo=NAME&theme=radical" />
+
+<a href="https://github.com/robin-exchange/static">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=robin-exchange&repo=static&theme=dark" />
 </a>    
-<a href="REPO">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ro-m-an&repo=NAME&theme=radical" />
+
+<a href="https://github.com/robin-exchange/server">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=robin-exchange&repo=server&theme=dark" />
 </a>
--->
+
