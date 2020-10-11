@@ -3,10 +3,7 @@ I'm a self taught developer and have been coding since 2012. I have been cooking
 I've been active on GitHub on a different alias since 2014.
 My project right now is [robin.exchange,](https://robin.exchange/) a stock & crypto trading simulator.
 
-##### Right now,
-As of September I have shown an interest towards drawing.
-
-![GitHub followers](https://img.shields.io/github/followers/ro-m-an?style=social)
+![GitHub followers](https://img.shields.io/github/followers/romdotdog?style=social)
 ![Discord](https://img.shields.io/discord/751469608615280670)
 [![Join Robin](https://img.shields.io/badge/join-robin-orange)](https://robin.exchange/)
 
