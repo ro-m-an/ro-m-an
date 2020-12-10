@@ -2,7 +2,7 @@
     rom's profile 
     <img align="right" src="https://komarev.com/ghpvc/?username=romdotdog&style=flat-square&color=F66565"/>
     <a href="https://rom.dog" target="_blank">
-        <img align="right" src="https://img.shields.io/static/v1?label=website&message=rom.dog&color=26F278&style=flat-square"/>
+        <img align="right" src="https://img.shields.io/static/v1?label=website&message=rom.dog&color=F66565&style=flat-square"/>
     </a>
 </h2> 
 <table>
