@@ -1,25 +1,25 @@
 <h2>
     rom's profile 
-    <img align="right" src="https://komarev.com/ghpvc/?username=romdotdog&style=flat-square&color=F66565"/>
+    <img alt="profile views badge" align="right" src="https://komarev.com/ghpvc/?username=romdotdog&style=flat-square&color=F66565"/>
     <a href="https://rom.dog" target="_blank">
-        <img align="right" src="https://img.shields.io/static/v1?label=website&message=rom.dog&color=F66565&style=flat-square"/>
+        <img alt="website badge" align="right" src="https://img.shields.io/static/v1?label=website&message=rom.dog&color=F66565&style=flat-square"/>
     </a>
 </h2> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=romdotdog&theme=dark" />
 </a>
 <div>
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/python/python-plain.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/materialui/materialui-original.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/php/php-plain.svg">
-    <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-plain.svg">
+    <img alt="typescript" width=30 height=24 src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg">
+    <img alt="javascript" width=30 height=24 src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg">
+    <img alt="python" width=30 height=24 src="https://devicon.dev/devicon.git/icons/python/python-plain.svg">
+    <img alt="csharp" width=30 height=24 src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg">
+    <img alt="react" width=30 height=24 src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
+    <img alt="materialui" width=30 height=24 src="https://devicon.dev/devicon.git/icons/materialui/materialui-original.svg">
+    <img alt="webpack" width=30 height=24 src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg">
+    <img alt="electron" width=30 height=24 src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg">
+    <img alt="nodejs" width=30 height=24 src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
+    <img alt="php" width=30 height=24 src="https://devicon.dev/devicon.git/icons/php/php-plain.svg">
+    <img alt="postgresql" width=30 height=24 src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-plain.svg">
 </div>
 
 I'm a backend developer trying to get into frontend. Started programming in late 2012 with Lua. I also draw and cook.
