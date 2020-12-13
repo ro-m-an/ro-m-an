@@ -22,21 +22,19 @@
     <img width=30 height=24 src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-plain.svg">
 </div>
 
-I'm a male backend developer trying to get into frontend. Started programming in late 2012 with Lua. I also draw and cook.
+I'm a backend developer trying to get into frontend. Started programming in late 2012 with Lua. I also draw and cook.
 * **Gender**: Male.
 * **Location**: Austin, Texas, United States.
 * **Birthday**: December 29th, 2005.
 
-```
 thanks for reading my README. 
 here's an ascii kitty cat for you.
-
-     ／l、
+<pre>
+    ／l、
    ﾞ（ﾟ､ ｡ ７
   　l、ﾞ ~ヽ
   　じしf_, )ノ
-```
-
+</pre>
 <details>
   <summary>Timeline of learning</summary>
 
