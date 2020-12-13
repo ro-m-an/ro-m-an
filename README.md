@@ -1,11 +1,11 @@
 <h2>
     rom's profile 
     <img alt="profile views badge" align="right" src="https://komarev.com/ghpvc/?username=romdotdog&style=flat-square&color=F66565"/>
-    <a href="https://rom.dog" target="_blank">
+    <a href="https://rom.dog" aria-label="my website" target="_blank">
         <img alt="website badge" align="right" src="https://img.shields.io/static/v1?label=website&message=rom.dog&color=F66565&style=flat-square"/>
     </a>
 </h2> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a aria-label="anuraghazra/github-readme-states" href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub Top Languages" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=romdotdog&theme=dark" />
 </a>
 <div>
