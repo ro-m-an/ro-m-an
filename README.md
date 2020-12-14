@@ -6,7 +6,7 @@
     </a>
 </h2> 
 <a aria-label="anuraghazra/github-readme-stats" href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Top Languages" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=romdotdog&theme=dark" />
+    <img alt="GitHub Top Languages" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=romdotdog&hide_border=true&theme=dark" />
 </a>
 <div>
     <img alt="typescript" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
