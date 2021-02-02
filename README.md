@@ -22,7 +22,7 @@
     <img alt="postgresql" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
 </div>
 
-I'm a backend developer trying to get into frontend. Started programming in late 2012 with Lua. I also draw and cook.
+I'm a backend developer / baker trying to get into frontend. Started programming in late 2012 with Lua.
 * **Gender**: Male.
 * **Location**: Austin, Texas, United States.
 * **Birthday**: December 29th, 2005.
