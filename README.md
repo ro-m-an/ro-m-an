@@ -12,6 +12,7 @@
     <img alt="typescript" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
     <img alt="javascript" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
     <img alt="python" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
+    <img alt="rust" width=30 height=24 src="https://rustacean.net/assets/rustacean-flat-happy.svg">
     <img alt="csharp" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
     <img alt="react" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <img alt="materialui" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
