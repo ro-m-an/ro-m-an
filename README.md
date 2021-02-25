@@ -5,9 +5,9 @@
         <img alt="website badge" align="right" src="https://img.shields.io/static/v1?label=website&message=rom.dog&color=F66565&style=flat-square"/>
     </a>
 </h2> 
-<a aria-label="anuraghazra/github-readme-stats" href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" align="right" src="https://github.com/romdotdog/github-stats/blob/master/generated/overview.svg" />
-    <img alt="GitHub Top Languages" align="right" src="https://github.com/romdotdog/github-stats/blob/master/generated/languages.svg" />
+<a aria-label="jstrieb/github-stats" href="https://github.com/jstrieb/github-stats">
+    <img alt="GitHub Stats" align="right" src="https://raw.githubusercontent.com/romdotdog/github-stats/master/generated/overview.svg" />
+    <img alt="GitHub Top Languages" align="right" src="https://raw.githubusercontent.com/romdotdog/github-stats/master/generated/languages.svg" />
 </a>
 <div>
     <img alt="typescript" width=30 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
