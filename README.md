@@ -7,7 +7,7 @@
 </h2> 
 <a aria-label="jstrieb/github-stats" href="https://github.com/jstrieb/github-stats">
     <img alt="GitHub Stats" align="right" src="https://raw.githubusercontent.com/romdotdog/github-stats/master/generated/overview.svg" />
-    <img height="1" align="right" hspace="1000" />
+    <img alt="spacer" height="1" align="right" hspace="1000" />
     <img alt="GitHub Top Languages" align="right" src="https://raw.githubusercontent.com/romdotdog/github-stats/master/generated/languages.svg" />
 </a>
 <div>
