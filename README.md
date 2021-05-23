@@ -45,22 +45,22 @@ here's an ascii kitty cat for you.
 Started programming Lua.
 
 ### Late 2014
-Started learning batch and C#. Joined GitHub on a separate account.
+Started learning batch and Visual Basic. Joined GitHub on a separate account.
 
 ### 2015
 Learned python after getting mad at how absolutely awful batch is. 
 
 ### 2016
-Started getting into more advanced concepts of programming. Started learning trigonometry and the cartesian plane.
+Learned some math concepts.
 
 ### 2017
-Learned HTML, CSS and JS.
+Learned C#, HTML, CSS, JS, and node. Created my first website.
 
 ### 2018
 Transitioned from WinForms to WPF. Started independently learning graphic design. Learned polar coordinates.
 
 ### 2019
-Learned node and PHP. Ended up creating my first website. Created an advanced bot to host a custom long-spanning RP game that I designed for my school friends.
+Learned some PHP. Created an online custom long-spanning RP game that I designed for my school friends.
 
 ### 2020
 
@@ -69,4 +69,7 @@ Learned in depth about compilers and virtual machines. Created and led two group
 #### Late
 Reestablished online presence.
 Learned React, webpack and similar libraries.
+    
+### 2021
+Learned C and C++.
 </details>
