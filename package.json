@@ -1,0 +1,16 @@
+{
+	"name": "romdotdog",
+	"description": "Builds the README to html",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/romdotdog/romdotdog.git"
+	},
+	"author": "romdotdog",
+	"license": "MIT",
+	"scripts": {
+		"build": "marked -o README.html README.md"
+	},
+	"devDependencies": {
+		"marked": "^2.1.3"
+	}
+}
